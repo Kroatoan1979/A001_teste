@@ -1,11 +1,11 @@
-body{
-    background: #464545;
+body {
+  background: #464545;
 }
-    h1{
-    color:blue;
+h1 {
+  color: blue;
 }
 
-.background_black{
-    background-color: black;
-    color: white
+.background_black {
+  background-color: black;
+  color: white;
 }
