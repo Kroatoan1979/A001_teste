@@ -9,3 +9,15 @@ h1 {
   background-color: black;
   color: white;
 }
+.blue-button {
+  background-color: #0066ff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.blue-button:hover {
+  background-color: #0052cc;
+}
